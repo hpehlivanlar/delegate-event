@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\bin\Debug\delege-event-kullanimi.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\bin\Debug\delege-event-kullanimi.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\bin\Debug\delege-event-kullanimi.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\obj\Debug\delege-event-kullanimi.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\obj\Debug\delege-event-kullanimi.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\obj\Debug\delege-event-kullanimi.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\delege-event-kullanimi\obj\Debug\delege-event-kullanimi.pdb
